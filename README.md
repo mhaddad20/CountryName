@@ -3,7 +3,7 @@ Hello and welcome to my coding challenge for the Software Engineer Intern positi
 I am excited about the opportunity to proceed to the next recruitment stage process and hope that my submission demonstrates my skills and potential to contribute to the team at Bounce Insights. Thank you for considering my application.
 
 
-Online deployment at netlify: https://atlasfinder.netlify.app/
+Online deployment at netlify: https://atlasfinder.netlify.app/.
 Note: Country Information only provided when server on port 8000 is running locally
 
 
