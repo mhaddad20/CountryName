@@ -13,4 +13,8 @@ The website features a search bar at the center of the page where the user can e
 
 The information is presented in a clear and concise format, with each piece of information appearing in its own section. The design of the website is user-friendly, with easy-to-read text and a layout that makes it simple to find the information you're looking for.
 
+
+![image](https://user-images.githubusercontent.com/71699703/234981021-12d7dd31-7468-41b8-9fc2-6592e9a268e3.png)
+
+
 This website is a great resource for anyone looking to learn more about a particular country. Whether you're planning a trip, doing research for a school project, or simply interested in learning about the world, this website is a valuable tool that provides easy access to accurate and up-to-date information.
