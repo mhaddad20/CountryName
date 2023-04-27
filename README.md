@@ -6,6 +6,17 @@ I am excited about the opportunity to proceed to the next recruitment stage proc
 Online deployment at netlify: https://atlasfinder.netlify.app/.
 Note: Country Information only provided when server on port 8000 is running locally
 
+To run project locally, 
+1. first install:
+npm install express
+npm install react-scripts
+npm install react-dom@client
+
+2. cd into project  && npm start
+3. node server.js to run server
+
+
+
 
 **Introduction to Atlasfinder:**
 
