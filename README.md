@@ -5,7 +5,7 @@ The objective was to create a user interface that allows users to input any coun
 I am excited about the opportunity to proceed to the next recruitment stage process and hope that my submission demonstrates my skills and potential to contribute to the team at Bounce Insights. Thank you for considering my application.
 
 
-Introduction to Atlasfinder:
+**Introduction to Atlasfinder:**
 
 ![image](https://user-images.githubusercontent.com/71699703/234978917-d35f7ae4-79a9-46ac-a80e-98ebc62c38cf.png)
 
